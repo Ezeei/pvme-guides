@@ -59,12 +59,12 @@ The boss is massable, however the recommended group size starts at 8, going down
 
 .
 **__Unlocks__**
-⬥ **Bladed Dive/Surge** <:bd:535532854281764884> / <:surge:535533810004262912>
+⬥ **Dive/Bladed Dive/Surge** <:bd:535532854281764884> / <:surge:535533810004262912>
     • Bladed Dive and Surge help move around the arena faster to deal with mechanics sooner.
 
 ⬥ **Perks** <:ancienttoolgizmo2:697405383572193311>
     • Skilling equipment should be augmented and equipped with the highest tier of the Honed perk available if possible. No other skilling perks are relevant to the encounter.
-    • Perks such as Imp Souled or Furnance will not affect resources in the encounter. Thus, tools with Honed 6 and such perks are viable to use in the encounter with no drawnbacks.
+    • Perks such as Imp Souled or Furnace will not affect resources in the encounter. Thus, tools with Honed 6 and such perks are viable to use in the encounter with no drawnbacks.
 
 ⬥ **Shadow's Grace** <:shadowsgrace:895999229737185280>
     • Lets players avoid needing an offhand switch for mobile while using skilling offhands.
